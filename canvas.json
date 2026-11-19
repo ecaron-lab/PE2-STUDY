@@ -1,0 +1,67 @@
+{
+ "v": 3,
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-11-17T13:44:15Z"
+ },
+ "title": "Study buddy concept art",
+ "launch": {
+  "view": "canvas"
+ },
+ "pages": [],
+ "boards": {
+  "Main.dc.html": {
+   "x": 0,
+   "y": 0,
+   "w": 960,
+   "h": 600,
+   "title": "Concept A \u00b7 Mochi"
+  },
+  "Ruby.dc.html": {
+   "x": 1040,
+   "y": 0,
+   "w": 960,
+   "h": 600,
+   "title": "Concept B \u00b7 Sir Vixx"
+  },
+  "Hoot.dc.html": {
+   "x": 2080,
+   "y": 0,
+   "w": 960,
+   "h": 600,
+   "title": "Concept C \u00b7 Hoot"
+  },
+  "Writing.dc.html": {
+   "x": 0,
+   "y": 720,
+   "w": 960,
+   "h": 600,
+   "title": "Scene \u00b7 Writing together",
+   "is_interactive": true
+  },
+  "StudyRoom.dc.html": {
+   "x": 1040,
+   "y": 720,
+   "w": 960,
+   "h": 600,
+   "title": "Scene \u00b7 Write mode study room"
+  }
+ },
+ "order": [
+  "Main.dc.html",
+  "Ruby.dc.html",
+  "Hoot.dc.html",
+  "Writing.dc.html",
+  "StudyRoom.dc.html"
+ ],
+ "notes": {
+  "heading": {
+   "x": 0,
+   "y": -260,
+   "text": "Pick a study buddy",
+   "kind": "title1",
+   "maxW": 3040
+  }
+ },
+ "designSystems": []
+}
